@@ -1,9 +1,18 @@
-﻿// Objectif : créer un site qui entraîne à l'écriture, avec des mots ou phrases générés aléatoirement
+/* Objectif : créer un site qui entraîne à l'écriture, avec des mots ou phrases générés aléatoirement
 
-// --- TODO : faire un algorithme de génération de phrase avec une logique | diviser le code en plusieurs fichiers
-// --- FIXME :
+ --- TODO : faire un algorithme de génération de phrase avec une logique
+ --- FIXME :
 
-// Author : Triliaxy
+ Author : Triliaxy
+
+
+ Décomposition du code :
+
+ - Ce qui concerne les scores est dans score.js
+ - La fonction pour générer les mots aléatoires est dans mot-aleatoires.js
+ - La fonction principale, le mode 2 et le l'appel de la fonction principale sont dans ce fichier
+
+ */
 
 
 let ChoixMode = prompt("Vous souhaitez des mots ( entrez 1 ) ou des suites de mots ( entrez 2 ) ?");
