@@ -9,7 +9,7 @@
  Décomposition du code :
 
  - Ce qui concerne les scores est dans score.js
- - La fonction pour générer les mots aléatoires est dans mot-aleatoires.js
+ - La fonction pour générer les mots aléatoires est dans mots-aleatoires.js
  - La fonction principale, le mode 2 et le l'appel de la fonction principale sont dans ce fichier
 
  */
