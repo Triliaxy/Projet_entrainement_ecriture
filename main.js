@@ -1,6 +1,6 @@
 /* Objectif : créer un site qui entraîne à l'écriture, avec des mots ou phrases générés aléatoirement
 
- --- TODO : faire un algorithme de génération de phrase avec une logique
+ --- TODO : faire un algorithme de génération de phrase avec une logique, faire un site un peu moins dégueulasse
  --- FIXME :
 
  Author : Triliaxy
